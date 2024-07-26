@@ -4,7 +4,7 @@ nltk==3.8.1
 numpy==1.26.4
 pandas==2.2.2
 seaborn==0.13.2
-spacy==3.7.5
+spacy==3.5.0
 streamlit==1.36.0
 urlextract==1.9.0
 wordcloud==1.9.3
