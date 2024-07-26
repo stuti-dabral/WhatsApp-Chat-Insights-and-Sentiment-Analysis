@@ -8,3 +8,4 @@ spacy==3.7.5
 streamlit==1.36.0
 urlextract==1.9.0
 wordcloud==1.9.3
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
