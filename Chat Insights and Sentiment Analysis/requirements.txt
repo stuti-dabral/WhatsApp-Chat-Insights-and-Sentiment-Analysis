@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+seaborn
+matplotlib
+urlextract
+wordcloud
+collections 
+emoji
+spacy
+re 
+nltk
