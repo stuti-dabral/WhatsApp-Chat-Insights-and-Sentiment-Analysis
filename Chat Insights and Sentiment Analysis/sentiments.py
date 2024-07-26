@@ -12,11 +12,7 @@ def overall_senti(selected_user, df):
 
     pos = df['value'].value_counts()[1]
     neu = df['value'].value_counts()[0]
-    neg = df['value'].value_counts()[-1]
-
-    print(pos)
-    print(neu)
-    print(neg)   
+    neg = df['value'].value_counts()[-1]  
 
     if (pos > neu) and (pos > neg):
        return "Positive 😊 "
